@@ -25,6 +25,8 @@ Even at suburban area Total weekly Fares amount varies for randomly within  rang
 ## Summary
 
 1.Number of rides per driver and fare for ride is more at rural and suburban area.Number of drivers is more than the number of rides and average fare is less at urban area. So there is a surplus number of drivers at urban area.There is a chance rural drivers is earning more than urban, but distance covered for each ride and cost of the ride also needs to considered to make accurate conclusion.
+
 2.If drivers can be added in the rural and suburban area may be average fare per driver can be reduced.If canceled ride requests data along with reason can be pulled , then driver requirement can be confirmed.
+
 3.Total weekly Fares amount varies for  randomly within  range of $1000 for urban area & suburban area.Rural area is comparatively stable within $500 for total weekly fares.
 As schedules and people movement is more stable at rural arae, other than any community event,this can be expected.Urban area ride requests varies with weather conditions,events etc.Hence variation within a range is expected.
